@@ -1,0 +1,22 @@
+{
+  "name": "reaction",
+  "version": "1.0.0",
+  "description": "introduction to flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbleds/reaction.git"
+  },
+  "author": "Benjamin Bledsoe <bledsoedesigns@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbleds/reaction/issues"
+  },
+  "homepage": "https://github.com/bbleds/reaction#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
